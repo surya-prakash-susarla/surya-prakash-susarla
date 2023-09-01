@@ -8,7 +8,7 @@
 I am Surya Prakash Susarla.
 Thank you for visiting my page.
 
-I am an experienced system and full-stack software engineer interested in the areas of software engineering, data analysis, full-stack and mobile development.
+I am an experienced systems developer interested in the areas of software engineering, data analysis, full-stack and mobile development.
 
 > # About Me ✒️
 I am currently pursuing Masters in Computer Science from North Carolina State University at Raleigh, North Carolina. My primary focus is in the areas of Software Engineering and System Design.
